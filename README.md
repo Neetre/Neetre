@@ -17,6 +17,9 @@
 
 - Email: mattiabraga2006@gmail.com
 
+## 😄 Pronouns:
+He/Him
+
 <!--
 **Neetre/Neetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
