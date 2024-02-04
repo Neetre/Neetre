@@ -1,4 +1,23 @@
 ### Hello, I'm Neetree 👋
+
+## 🔭 I’m currently working on:
+
+- a LLM model, trained with twitch chats
+- another LLM model, trained usind data obtained from the wikipedia 2022 data dump;
+
+## 🌱 I’m currently learning:
+
+- ML and DD;
+
+## 💬 Ask me about:
+
+- Python, I did a lot of different projects using python;
+
+📫 How to reach me:
+
+`````mail: mattiabraga2006@gmail.com
+- LinkedIn
+
 <!--
 **Neetre/Neetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
