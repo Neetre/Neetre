@@ -15,8 +15,7 @@
 
 📫 How to reach me:
 
-`````mail: mattiabraga2006@gmail.com
-- LinkedIn
+- Email: mattiabraga2006@gmail.com
 
 <!--
 **Neetre/Neetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
