@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning:
 
-- ML and DD;
+- ML and DL;
 
 ## 💬 Ask me about:
 
