@@ -2,16 +2,19 @@
 
 ## 🔭 I’m currently working on:
 
-- a LLM model, trained with twitch chats
-- another LLM model, trained usind data obtained from the wikipedia 2022 data dump;
+- LLM model that will do machine translation, why, because I wanted to do something.
+- 
 
 ## 🌱 I’m currently learning:
 
 - ML and DL;
+- Data Science;
+- Mobile App development
 
 ## 💬 Ask me about:
 
 - Python, I did a lot of different projects using python;
+- Systems and Networks
 
 📫 How to reach me:
 
