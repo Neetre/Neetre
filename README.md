@@ -1,5 +1,7 @@
 ### Hello, I'm Neetree 👋
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 ## 🔭 I’m currently working on:
 
 - LLM model that will do machine translation, why, because I wanted to do something.
